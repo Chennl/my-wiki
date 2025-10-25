@@ -1,6 +1,6 @@
-# 1\.在github创建project
+# 1.在github创建project
 
-# 2\.在本地执行：
+# 2.在本地执行：
 
 git init
 
@@ -13,4 +13,8 @@ git branch -M main  \*\*很重要：设置目标分支\*\*
 git remote add origin https://github.com/Chennl/my-wiki.git \*\*很重要：设置远程项目链接\*\*
 
 git push -u origin main
+
+
+
+!\[知识库截图](images/wiki.jpg)
 
