@@ -16,5 +16,6 @@ git push -u origin main
 
 
 
-![](images\wiki.jpg)
+![image](images\wiki.jpg)
 
+ 
