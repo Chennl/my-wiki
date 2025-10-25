@@ -16,5 +16,5 @@ git push -u origin main
 
 
 
-!\[知识库截图](images/wiki.jpg)
+![](images\wiki.jpg)
 
